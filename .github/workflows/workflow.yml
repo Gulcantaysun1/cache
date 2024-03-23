@@ -1,5 +1,7 @@
 name: Tests
-
+              - ad: Önbellek
+                kullanımlar: eylemler/önbellek@v4.0.2
+            
 on:
   pull_request:
     branches:
